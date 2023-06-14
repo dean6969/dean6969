@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Data Anlyst [Master PTE](https://www.masterpte.com.au/)
+- 🔭 I’m currently working on Data Analyst at [Master PTE](https://www.masterpte.com.au/)
 
-- 🌱 I’m currently learning **Deep learning, LLMs, Image Classification**
+- 🌱 I’m currently learning in **Deep learning, LLMs, Image Classification**
 
 - 👨‍💻 All of my projects are available at [https://porfolio-xbmh.onrender.com](https://porfolio-xbmh.onrender.com)
 

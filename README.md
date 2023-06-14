@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Deep learning, LLMs, Image Classification**
 
-- 👨‍💻 All of my projects are available at [https://porfolio-xbmh.onrender.comhttps://porfolio-xbmh.onrender.com](https://porfolio-xbmh.onrender.comhttps://porfolio-xbmh.onrender.com)
+- 👨‍💻 All of my projects are available at [https://porfolio-xbmh.onrender.com](https://porfolio-xbmh.onrender.com)
 
 - 💬 Ask me about **Data visualization, Data Modelling**
 

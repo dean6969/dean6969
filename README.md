@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edward Nguyen</h1>
-<h3 align="center">Data Analyst | Data Scientist | Python, R, JavaScript, SQL, Excel, Tableau, Power BI |</h3>
+<h3 align="center">Data Engineer | Data Analyst | Data Scientist | Python, R, JavaScript, SQL, Excel, Tableau, Power BI |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dean6969&label=Profile%20views&color=0e75b6&style=flat" alt="dean6969" /> </p>
 

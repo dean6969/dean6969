@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Data Engineer at [Master PTE](https://www.masterpte.com.au/)
+- 🔭 I’m currently working on Data Engineer at [DENTSU]([https://www.dentsu.com/])
 
 - 🌱 I’m currently learning in **Deep learning, LLMs, Image Classification**
 
